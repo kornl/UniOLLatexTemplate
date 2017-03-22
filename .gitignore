@@ -22,3 +22,5 @@
 *.toc
 *.snm
 *.tcp
+.Rproj.user
+.Rhistory
